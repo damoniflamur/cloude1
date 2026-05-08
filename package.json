@@ -1,0 +1,14 @@
+{
+  "name": "cloude1",
+  "version": "1.0.0",
+  "description": "Node.js application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
